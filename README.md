@@ -391,4 +391,4 @@ The focus is on **clean API architecture, authentication, authorization, validat
 Software & Web Developer
 
 - GitHub: https://github.com/Luciana-Okorie
-- LinkedIn: https://www.linkedin.com/in/luciana-okorie
+- LinkedIn: https://www.linkedin.com/in/luciana-okorie-b6072b2b8
